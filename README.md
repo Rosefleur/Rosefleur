@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Mandarin and Business Trade 
 - 💞️ I’m looking to collaborate on Anything 
-- 📫 How to reach me lolaa.ajaa12@gmail.com 
+- 📫 How to reach me chat
 
 <!---
 Rosefleur/Rosefleur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
